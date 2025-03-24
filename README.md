@@ -14,10 +14,12 @@
 ## 🔧 Requirements
 Ensure you have the following dependencies installed:
 
+
+![image](https://github.com/user-attachments/assets/034179a4-e6a7-442b-b2e5-36a842b119b2)
+
+![image](https://github.com/user-attachments/assets/9b0c623b-b9e2-4033-bb41-d6d0156c7dfb)
+
+
 ```sh
 pip install qrcode[pil] pillow
 
-
-![image](https://github.com/user-attachments/assets/5d116ddd-62d6-49fc-a34c-3bdfe0de3483)
-
-![image](https://github.com/user-attachments/assets/921ed937-e324-4125-b9c5-4c642f6a8b44)
