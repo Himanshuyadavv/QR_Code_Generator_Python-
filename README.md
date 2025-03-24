@@ -1,7 +1,5 @@
 # QR_Code_Generator_Python
 
-# QR Code Generator
-
 ## 📌 Description
 - Generates customized QR codes with optional logo integration.
 - Supports high error correction for better readability.
